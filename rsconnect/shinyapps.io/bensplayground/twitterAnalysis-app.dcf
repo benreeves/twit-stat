@@ -1,0 +1,8 @@
+name: twitterAnalysis-app
+account: bensplayground
+server: shinyapps.io
+bundleId: 311300
+url: https://bensplayground.shinyapps.io/twitterAnalysis-app
+when: 1447636170.85289
+asMultiple: FALSE
+asStatic: FALSE
